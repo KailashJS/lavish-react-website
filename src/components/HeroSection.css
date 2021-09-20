@@ -56,3 +56,41 @@
 .darkBg {
     background-color: #1c2237;
 }
+
+.home__hero-subtitle {
+    max-width: 440px;
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.home__hero-img-wrapper {
+    max-width: 555px;
+}
+
+.home__hero-img {
+    max-width: 95%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 10px;
+    padding-right: 0;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .col {
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+}
