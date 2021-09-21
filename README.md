@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# React application for a fictional brand Lavish
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KailashJS)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/KailashJS) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/KailashJS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created a website for the fictional brand "Lavish" with React. Key features implemented were Responsive + Material design and reusable components.
 
-## Available Scripts
+###### **Here is the link to the [live demo](https://react-framer-demo.web.app/)**
 
-In the project directory, you can run:
 
-### `npm start`
+## Technology Stack Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-javascript-blue.svg?logo=javascript&style=flat-square)
+![React](https://img.shields.io/badge/frontend-react-red.svg?logo=react&style=flat-square)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+- Front End - **HTML**, **CSS** , **JavaScript** , **React** 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Still need help?
 
-### `npm run build`
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  if (needHelp === true) {
+     // email is the best way to reach out to me!
+     const emailId = "kcbhakta.99@gmail.com";
+     sendEmail(emailId);
+  }
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+***Glad to see you here! Show some love by [starring](https://github.com/KailashJS/lavish-react-website) this repo.***
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@kailash&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/kailashchandra.bhakta.5/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@kailash&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/bhaktakailashchandra/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@kailash&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/kailashchandrabhakta/) [![Twitter](https://img.shields.io/static/v1.svg?label=follow&message=@kailash&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/BhaktaKailash)
